@@ -1,0 +1,21 @@
+{
+    "name": "fetch-geoloc-qa-util",
+    "version": "1.0.0",
+    "description": "Fetches geolocation data using OpenWeather API",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "jest",
+      "performance": "jest tests/performance.test.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "dotenv": "^8.2.0"
+    },
+    "devDependencies": {
+      "jest": "^26.6.3"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/paladinknightmaster/fetch-geoloc-qa-util.git"
+    }
+  }

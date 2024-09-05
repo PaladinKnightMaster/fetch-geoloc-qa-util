@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# dotenv environment files
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Jest cache and coverage
+coverage/
+jest/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
