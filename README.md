@@ -16,7 +16,7 @@ This command-line utility fetches latitude, longitude, and location details for 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/PaladinKnightMaster/fetch-geoloc-qa-util.git
    cd fetch-geoloc-qa-util
    ```
 
